@@ -1,0 +1,8 @@
+<form action="is_in_program_insertion.php" method="POST">
+    Episode ID:
+    <input type="text" id="episodeID" name="episodeID" />
+    Program ID:
+    <input type="text" id="programID" name="programID" />
+    <input type="submit" value="Submit" />
+  </form>
+  
